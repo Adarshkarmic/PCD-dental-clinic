@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PDC Clinic | The Art of Perfect Smiles
 
-## Getting Started
+A premium, world-class 3D Dental Clinic web experience built with **Next.js**, **React Three Fiber**, and **Framer Motion**. This project pushes the boundaries of clinical web design by combining luxury agency-level aesthetics with interactive 3D elements.
 
-First, run the development server:
+## ?? Key Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Interactive 3D Dental Model**: A fully manipulatable 3D mouth model built with @react-three/fiber and @react-three/drei.
+- **Cinematic Scrolling**: Buttery smooth, physics-based momentum scrolling powered by **Lenis**.
+- **Luxury UI/UX**: Designed with a strict "No AI Slop" philosophy. Features subtle weight, physics, and texture.
+- **Awwwards-Level Animations**: Includes complex mask-reveals, depth-of-field blur ins, subtle parallax imagery, and synchronized "antigravity" floating elements.
+- **Dynamic Treatment Gallery**: A highly polished before/after comparison slider seamlessly synced with the 3D canvas.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ?? Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Framework**: [Next.js 15 (App Router)](https://nextjs.org/)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+- **3D Rendering**: [Three.js](https://threejs.org/) & [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Scroll Hijacking**: [Lenis](https://lenis.studiofreight.com/)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ?? Live Demo
+**[https://pcd-dental-clinic.vercel.app](https://pcd-dental-clinic.vercel.app)**
